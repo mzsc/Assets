@@ -5,8 +5,8 @@ public class BackScroll : MonoBehaviour
 {
 
 	public float ScrollVelocity = 25.0f;//滚动速度
-	public float mTop = 150.0f;//上边界
-	public float mBottom = -150.0f;//下边界
+	public float mTop = 120.0f;//上边界
+	public float mBottom = -120.0f;//下边界
 
 	private GameObject mBack1;//背景1
 	private GameObject mBack2;//背景2
